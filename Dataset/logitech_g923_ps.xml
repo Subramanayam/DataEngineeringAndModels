@@ -1,0 +1,536 @@
+<!--
+    **************************************************
+    * To ensure the use of this tooltip map in the game make sure the file name is valid in the dictionary file and that the database has been modified correctly.
+    **************************************************
+    -->
+    <!--
+    **************************************************
+    * To ensure the use of this tooltip map in the game make sure the file name is valid in the dictionary file and that the database has been modified correctly.
+    **************************************************
+    -->
+<Device name="logitech_g923" typeid="C266046D" display="lng_logitech_g923" type="wheel">
+    <Tooltips>
+        <Axis Name="di_button_0">
+          <icon Value="C" />
+          <localise Value="true" />
+          <is_button Value="true" />
+        </Axis>
+        <Axis Name="di_button_1">
+          <icon Value="y" />
+          <localise Value="true" />
+          <is_button Value="true" />
+        </Axis>
+        <Axis Name="di_x_axis+">
+          <icon Value="&amp;" />
+          <localise Value="true" />
+          <is_button Value="false" />
+        </Axis>
+        <Axis Name="di_x_axis-">
+          <icon Value="$" />
+          <localise Value="true" />
+          <is_button Value="false" />
+        </Axis>
+        <Axis Name="di_y_axis+">
+          <icon Value="â" />
+          <localise Value="true" />
+          <is_button Value="false" />
+        </Axis>
+        <Axis Name="di_y_axis-">
+          <icon Value=")" />
+          <localise Value="true" />
+          <is_button Value="false" />
+        </Axis>
+        <Axis Name="di_z_axis+">
+          <icon Value="è"/>
+          <localise Value="true" />
+          <is_button Value="false" />
+        </Axis>
+        <Axis Name="di_z_axis-">
+          <icon Value="ê" />
+          <localise Value="true" />
+          <is_button Value="false" />
+        </Axis>
+        <Axis Name="di_x_axis_rotation+">
+          <icon Value="Ý" />
+          <localise Value="true" />
+          <is_button Value="false" />
+        </Axis>
+        <Axis Name="di_x_axis_rotation-">
+          <icon Value="ß" />
+          <localise Value="true" />
+          <is_button Value="false" />
+        </Axis>
+        <Axis Name="di_y_axis_rotation+">
+          <icon Value="ã" />
+          <localise Value="true" />
+          <is_button Value="false" />
+        </Axis>
+        <Axis Name="di_y_axis_rotation-">
+          <icon Value="å" />
+          <localise Value="true" />
+          <is_button Value="false" />
+        </Axis>
+        <Axis Name="di_z_axis_rotation+">
+          <icon Value="é" />
+          <localise Value="true" />
+          <is_button Value="false" />
+        </Axis>
+        <Axis Name="di_z_axis_rotation-">
+          <icon Value="^" />
+          <localise Value="true" />
+          <is_button Value="false" />
+        </Axis>
+        <Axis Name="di_slider_0-">
+          <icon Value="ô" />
+          <localise Value="true" />
+          <is_button Value="false" />
+        </Axis>
+        <Axis Name="di_slider_0+">
+          <icon Value="ô" />
+          <localise Value="true" />
+          <is_button Value="false" />
+        </Axis>
+        <Axis Name="di_slider_1">
+          <icon Value="Ø" />
+          <localise Value="true" />
+          <is_button Value="false" />
+        </Axis>
+        <Axis Name="di_pov_0">
+          <icon Value="Ó" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="false" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_pov_1">
+          <icon Value="Ô" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="false" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_pov_2">
+          <icon Value="Õ" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="false" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_pov_3">
+          <icon Value="Ö" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="false" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_0_down">
+          <icon Value="j" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_0_left">
+          <icon Value="k" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_0_right">
+          <icon Value="i" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_0_up">
+          <icon Value="h" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_1_down">
+          <icon Value="j" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_1_left">
+          <icon Value="k" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_1_right">
+          <icon Value="i" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_1_up">
+          <icon Value="h" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_2_down">
+          <icon Value="j" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_2_left">
+          <icon Value="k" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_2_right">
+          <icon Value="i" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_2_up">
+          <icon Value="h" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_3_down">
+          <icon Value="j" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_3_left">
+          <icon Value="k" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_3_right">
+          <icon Value="i" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_dpad_3_up">
+          <icon Value="h" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_2">
+          <icon Value="p" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_3">
+          <icon Value="B" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_4">
+          <icon Value="u" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_5">
+          <icon Value="q" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_6">
+          <icon Value="v" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_7">
+          <icon Value="r" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_8">
+          <icon Value="x" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_9">
+          <icon Value="t"ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_10">
+          <icon Value="w" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_11">
+          <icon Value="s" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_12">
+          <icon Value="õ" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_13">
+          <icon Value="ö" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_14">
+          <icon Value="÷" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_15">
+          <icon Value="ø" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_16">
+          <icon Value="ù" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_17">
+          <icon Value="ú" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_18">
+          <icon Value="û" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_19">
+          <icon Value="ÿ" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_20">
+          <icon Value="í" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_21">
+          <icon Value="ā" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_22">
+          <icon Value="ý" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_23">
+          <icon Value="ü" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_24">
+          <icon Value="Á" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_25">
+          <icon Value="Ã" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_26">
+          <icon Value="Ä" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_27">
+          <icon Value="Å" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_28">
+          <icon Value="Æ" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_29">
+          <icon Value="Ç" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_30">
+          <icon Value="È" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_31">
+          <icon Value="É" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_32">
+          <icon Value="Ê"  ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_33">
+          <icon Value="Ë" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_34">
+          <icon Value="Ì" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_35">
+          <icon Value="Í" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_36">
+          <icon Value="Î" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_37">
+          <icon Value="Ï" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_38">
+          <icon Value="Ð" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_39">
+          <icon Value="Ñ" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+        <Axis Name="di_button_40">
+          <icon Value="Â" ReadOnly="False" />
+          <localise Value="true" ReadOnly="True" />
+          <is_button Value="true" ReadOnly="True" />
+        </Axis>
+    </Tooltips>
+    <ForceFeedback>
+        <Strength value="70" />
+        <OnTrack value="50" />
+        <Rumblestrip value="50" />
+        <OffTrack value="50" />
+        <WheelWeight value="1" />
+        <UnderstearEnhance value="false" />
+    </ForceFeedback>
+    <ActionMaps>
+        <ActionMap actionMapName="logitech_g923_ps" deviceName="C266046D" deviceDisplayKey="lng_logitech_g923" priority="5">
+            <Action actionName="Menu Right Stick Up">
+                <Axis axisName="di_y_axis" type="uniDirectionalNegative" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Right Stick Down">
+                <Axis axisName="di_z_axis_rotation" type="uniDirectionalNegative" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Right Stick Left">
+                <Axis axisName="di_x_axis" type="biDirectionalLower" deadZone="0.25" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Right Stick Right">
+                <Axis axisName="di_x_axis" type="biDirectionalUpper" deadZone="0.25" saturation="1.0" />
+            </Action>
+            <Action actionName="Accelerate">
+                <Axis axisName="di_y_axis" type="uniDirectionalNegative" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Brake">
+                <Axis axisName="di_z_axis_rotation" type="uniDirectionalNegative" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Steer Left">
+                <Axis axisName="di_x_axis" type="biDirectionalLower" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Steer Right">
+                <Axis axisName="di_x_axis" type="biDirectionalUpper" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Gear Up">
+                <Axis axisName="di_button_4" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Gear Down">
+                <Axis axisName="di_button_5" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Clutch">
+                <Axis axisName="di_button_4" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="DRS">
+                <Axis axisName="di_button_3" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+			<Action actionName="Handbrake">
+                <Axis axisName="di_button_3" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Pit Limiter">
+                <Axis axisName="di_button_3" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Talk">
+                <Axis axisName="di_button_2" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Overtake">
+                <Axis axisName="di_button_0" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+			<Action actionName="PitStop">
+                <Axis axisName="di_button_0" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="MFD Button">
+                <Axis axisName="di_button_1" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Look Down">
+                <Axis axisName="di_button_8" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Pause">
+                <Axis axisName="di_button_9" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Replay">
+                <Axis axisName="di_button_7" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Accept">
+                <Axis axisName="di_button_0" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Start">
+                <Axis axisName="di_button_9" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Back">
+                <Axis axisName="di_button_2" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu DPad Up">
+                <Axis axisName="di_dpad_0_up" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu DPad Left">
+                <Axis axisName="di_dpad_0_left" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu DPad Right">
+                <Axis axisName="di_dpad_0_right" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu DPad Down">
+                <Axis axisName="di_dpad_0_down" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Up">
+                <Axis axisName="di_dpad_0_up" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Left">
+                <Axis axisName="di_dpad_0_left" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Right">
+                <Axis axisName="di_dpad_0_right" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Down">
+                <Axis axisName="di_dpad_0_down" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="MFD Menu Up">
+                <Axis axisName="di_dpad_0_up" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="MFD Menu Right">
+                <Axis axisName="di_dpad_0_right" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="MFD Menu Down">
+                <Axis axisName="di_dpad_0_down" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="MFD Menu Left">
+                <Axis axisName="di_dpad_0_left" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Extra1">
+                <Axis axisName="di_button_1" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Extra2">
+                <Axis axisName="di_button_3" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Shoulder Left">
+                <Axis axisName="di_button_5" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Shoulder Right">
+                <Axis axisName="di_button_4" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Trigger Left">
+                <Axis axisName="di_button_11" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+            <Action actionName="Menu Trigger Right">
+                <Axis axisName="di_button_10" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+			<Action actionName="Menu Special">
+              <Axis axisName="di_button_7" type="uniDirectionalPositive" deadZone="0.0" saturation="1.0" />
+            </Action>
+        </ActionMap>
+    </ActionMaps>
+</Device>
+
